@@ -1,4 +1,4 @@
-module github.com/NZ-WEB/chat-grpc-contract.git
+module github.com/NZ-WEB/chat-grpc-contract
 
 go 1.19
 
